@@ -1,0 +1,8 @@
+# Ignore all directories
+/*/
+
+# Optionally, if you want to ignore all files too, uncomment the following line
+# *
+
+# If you want to include specific directories, you can use the following pattern
+# !/example_directory/
